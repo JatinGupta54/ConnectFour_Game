@@ -3,7 +3,7 @@
 ## Connect 4 Game Project for ENGG1110
 
 ## Project Overview
-This project implements the game of Connect 4 in C for the ENGG1110 Problem Solving by Programming course at The Chinese University of Hong Kong. The game supports both one-player (against a computer) and two-player modes.
+This project implements the game of Connect 4 in C. The game supports both one-player (against a computer) and two-player modes.
 
 ## Features
 - Interactive game board (7 columns x 6 rows)
